@@ -1,1 +1,1 @@
-A very simple game demo made with the pygame library.
+A very simple demo made with the pygame library.
